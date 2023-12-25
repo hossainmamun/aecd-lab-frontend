@@ -12,7 +12,7 @@ const TopResearcher = () => {
    const [loading, setLoading] = useState(null);
 
    const settings = {
-      fade: true,
+      fade: false,
       dots: false,
       infinite: true,
       slidesToShow: 1,

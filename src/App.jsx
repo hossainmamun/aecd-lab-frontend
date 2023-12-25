@@ -75,7 +75,7 @@ function App() {
                                  path='all_team_members'
                                  element={<AllTeamMember />}
                               />
-                              <Route path='all_blogs' element={<AllBlogs/>} />
+                              <Route path='all_blogs' element={<AllBlogs />} />
 
                               {/* --------------- dashboard route ------------ */}
                               <Route path='dashboard' element={<Dashboard />}>
